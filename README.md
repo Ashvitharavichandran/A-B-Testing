@@ -31,7 +31,7 @@ The primary goals of this project are to:
 
  Checked and handled missing values
 
-2. Exploratory Data Analysis
+2.Exploratory Data Analysis
 
  Compared conversion rates between Ad and PSA groups
 
@@ -39,7 +39,7 @@ The primary goals of this project are to:
 
  Visualized patterns to understand ad performance timing
 
-3. A/B Testing
+3.A/B Testing
 
  Defined hypotheses:
 
@@ -51,7 +51,7 @@ The primary goals of this project are to:
 
  Evaluated statistical significance using p-values
 
-4. Incremental Lift Analysis
+4.Incremental Lift Analysis
 
  Calculated conversion rate lift between Ad and PSA groups
 
@@ -59,7 +59,7 @@ The primary goals of this project are to:
 
  Estimated incremental revenue assuming a fixed revenue per conversion
 
-5. Timing Impact Analysis (ANOVA)
+5.Timing Impact Analysis (ANOVA)
 
  Conducted ANOVA tests to evaluate the impact of:
 
