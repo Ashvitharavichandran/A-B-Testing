@@ -25,49 +25,49 @@ The primary goals of this project are to:
 ## Project Workflow
 1. Data Preprocessing
 
-Loaded and cleaned the dataset
+ Loaded and cleaned the dataset
 
-Converted boolean conversion values to integers
+ Converted boolean conversion values to integers
 
-Checked and handled missing values
+ Checked and handled missing values
 
 2. Exploratory Data Analysis
 
-Compared conversion rates between Ad and PSA groups
+ Compared conversion rates between Ad and PSA groups
 
-Analyzed conversion trends by day and hour
+ Analyzed conversion trends by day and hour
 
-Visualized patterns to understand ad performance timing
+ Visualized patterns to understand ad performance timing
 
 3. A/B Testing
 
-Defined hypotheses:
+ Defined hypotheses:
 
-H₀: Ads do not increase conversion rate
+ H₀: Ads do not increase conversion rate
 
-H₁: Ads increase conversion rate
+ H₁: Ads increase conversion rate
 
-Performed a two-proportion Z-test
+ Performed a two-proportion Z-test
 
-Evaluated statistical significance using p-values
+ Evaluated statistical significance using p-values
 
 4. Incremental Lift Analysis
 
-Calculated conversion rate lift between Ad and PSA groups
+ Calculated conversion rate lift between Ad and PSA groups
 
-Measured additional conversions caused by ads
+ Measured additional conversions caused by ads
 
-Estimated incremental revenue assuming a fixed revenue per conversion
+ Estimated incremental revenue assuming a fixed revenue per conversion
 
 5. Timing Impact Analysis (ANOVA)
 
-Conducted ANOVA tests to evaluate the impact of:
+ Conducted ANOVA tests to evaluate the impact of:
 
-Day of highest ad exposure
+ Day of highest ad exposure
 
-Hour of highest ad exposure
+ Hour of highest ad exposure
 
-Identified statistically significant time-based effects
+ Identified statistically significant time-based effects
 
 
 ## Final Conclusion
