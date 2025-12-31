@@ -23,7 +23,7 @@ The primary goals of this project are to:
 
 
 ## Project Workflow
-Data Preprocessing
+1.Data Preprocessing
 
  Loaded and cleaned the dataset
 
