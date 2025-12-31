@@ -1,12 +1,12 @@
-## Marketing A/B Testing Project
+# Marketing A/B Testing Project
 
-# Project Overview
+## Project Overview
 
 Marketing campaigns require significant investment, and not all advertisements lead to meaningful business outcomes. This project evaluates the effectiveness of an advertising campaign using A/B testing to determine whether showing ads leads to higher conversion rates compared to a public service announcement (PSA).
 
 The analysis focuses on measuring incremental lift, statistical significance, and potential revenue impact to support data-driven marketing decisions. 
 
-# Business Objectives
+## Business Objectives
 
 The primary goals of this project are to:
 
@@ -22,7 +22,7 @@ The primary goals of this project are to:
 
 
 
-# Project Workflow
+## Project Workflow
 1. Data Preprocessing
 
 Loaded and cleaned the dataset
@@ -70,7 +70,7 @@ Hour of highest ad exposure
 Identified statistically significant time-based effects
 
 
-# Final Conclusion
+## Final Conclusion
 
 1. A/B testing confirms advertising significantly increases conversions
 2. Incremental lift shows conversions attributable to ads
